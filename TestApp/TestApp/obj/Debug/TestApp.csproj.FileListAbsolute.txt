@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Debug\TestApp.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Debug\TestApp.exe
+c:\users\dell\documents\visual studio 2015\Projects\TestApp\TestApp\bin\Debug\TestApp.pdb
+c:\users\dell\documents\visual studio 2015\Projects\TestApp\TestApp\obj\Debug\TestApp.exe
+c:\users\dell\documents\visual studio 2015\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
